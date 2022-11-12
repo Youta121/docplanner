@@ -1,0 +1,172 @@
+.taswira {
+    width: 200px;
+      
+}
+a{
+    color: #00b39b;
+    text-decoration: none;
+}
+nav {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   align-content: flex-start;
+   justify-content: space-around ;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+}
+ 
+li
+{
+display:inline;
+padding: 5px;
+}
+.taswira2 {
+
+    width: 40px;
+    height: 39px;
+}
+p { 
+    margin-right: 19px;
+    font-family: 'Work Sans';
+    margin-left: 19px;
+    color: #747474;}
+.pg {
+    display: flex;
+    
+    
+}
+
+.services {
+  margin: 3.75rem auto 2.5rem
+}
+h1 { 
+    color: #00b39b;
+}
+.titleimg {
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+    
+  .box1 { width: 311px;
+    height: 345px;
+    background: #00b39b;
+    border: solid 3px white ;
+    display: grid;
+    align-content: space-between;
+    justify-items: center;
+    align-items: center;
+    justify-content: space-between;
+  
+    
+  }
+  .box2 {
+    width: 311px;
+    height: 345px;
+    background: #2682C4;
+    border: solid 3px  white ;
+    display : grid;
+    align-content: space-between;
+    justify-items: center;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .box3 {
+    width: 311px;
+    height: 345px;
+    border: solid 3px white ; 
+    background : #343637;
+    display: grid;
+    align-content: space-between;
+    justify-items: center;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .boxes { display:  flex;
+    box-sizing: inherit;
+
+  }
+ 
+.services .style-select {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  outline: 0;
+  background: none;
+  border: 0;
+  color: #fff;
+  font-family: Roboto, Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: .04em;
+  font-size: 1.2rem;
+  text-align: center
+}
+
+.services .style-select select {
+  width: 100%;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  padding: 0 2em 0 0;
+  -webkit-appearance: none;
+  outline: 0;
+  text-transform: none;
+  text-decoration: underline;
+  cursor: pointer
+}
+
+.services .style-select select option {
+  font-size: 1rem;
+  line-height: 1.2;
+  color: #333
+}
+
+.services .style-select:hover {
+  background: none;
+  color: #fff
+}
+
+.services .style-select:after {
+  background: no-repeat url(/icons/icon-caret-white.svg) 50% 50%
+}
+
+.services .style-select:last-child {
+  margin-bottom: 35px
+}
+
+  h1,h2 { 
+    color : white ;
+    font-family: Work Sans,Arial,sans-serif;
+
+  }
+ body{
+    font-family: Roboto,Arial,sans-serif;
+    font-weight: 400;
+    color: #747474;
+    padding-top: 70px;
+    -webkit-font-smoothing: antialiased;
+ }
+
+
+.section__inner {
+  zoom: 1;
+  max-width: 1015px;
+  padding: 0 20px;
+  margin: 0 auto;
+  position: relative
+}
+.brands {
+  margin: 2.5rem auto 3.125rem
+}
+.brands h1 {
+  float: left;
+  width: 33%;
+  font-size: 1.625em;
+  margin: .25em 0 .35em;
+  padding-right: 1em
+}
